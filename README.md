@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ITE103-HTML&CSS</title>
 </head>
 <body>
   <h1>University of Cambodia</h1>
