@@ -13,7 +13,7 @@
   <!-- Horizontal Line -->
   <hr>
 
-  <img src="UC.jpg" width="450" height="450">
+  <img src="UC.jpg./ photo.jpg" width="450" height="450">
 
   <footer>&copy; 2025</footer>
 </body>
